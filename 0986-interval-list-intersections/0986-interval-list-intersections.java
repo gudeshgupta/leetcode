@@ -1,7 +1,6 @@
 class Solution {
     public int[][] intervalIntersection(int[][] firstList, int[][] secondList) {
-        HashMap<Integer,Integer>a=new HashMap<>();
-        HashMap<Integer,Integer>b=new HashMap<>();
+       
        List<int[]> res = new ArrayList<>();
         int i=0,j=0;
         int n=firstList.length;
