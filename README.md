@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/gudeshgupta/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gudeshgupta/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gudeshgupta/leetcode/tree/master/0986-interval-list-intersections) |
+| [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gudeshgupta/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/gudeshgupta/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gudeshgupta/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gudeshgupta/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/gudeshgupta/leetcode/tree/master/0263-ugly-number) |
+| [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/gudeshgupta/leetcode/tree/master/0503-next-greater-element-ii) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
