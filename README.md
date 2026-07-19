@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gudeshgupta/leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/gudeshgupta/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gudeshgupta/leetcode/tree/master/0057-insert-interval) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gudeshgupta/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/gudeshgupta/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/gudeshgupta/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gudeshgupta/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gudeshgupta/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gudeshgupta/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Math
 |  |
 | ------- |
