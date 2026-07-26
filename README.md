@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/gudeshgupta/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gudeshgupta/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gudeshgupta/leetcode/tree/master/0986-interval-list-intersections) |
+| [1046-last-stone-weight](https://github.com/gudeshgupta/leetcode/tree/master/1046-last-stone-weight) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gudeshgupta/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gudeshgupta/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/gudeshgupta/leetcode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
