@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gudeshgupta/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/gudeshgupta/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gudeshgupta/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gudeshgupta/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gudeshgupta/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gudeshgupta/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gudeshgupta/leetcode/tree/master/0020-valid-parentheses) |
+| [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gudeshgupta/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gudeshgupta/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gudeshgupta/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gudeshgupta/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -150,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gudeshgupta/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
