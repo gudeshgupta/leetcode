@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/gudeshgupta/leetcode/tree/master/1046-last-stone-weight) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gudeshgupta/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/gudeshgupta/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
