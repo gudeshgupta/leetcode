@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/gudeshgupta/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gudeshgupta/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/gudeshgupta/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gudeshgupta/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gudeshgupta/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gudeshgupta/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/gudeshgupta/leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/gudeshgupta/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
