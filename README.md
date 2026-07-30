@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gudeshgupta/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gudeshgupta/leetcode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gudeshgupta/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gudeshgupta/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gudeshgupta/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/gudeshgupta/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/gudeshgupta/leetcode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/gudeshgupta/leetcode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gudeshgupta/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gudeshgupta/leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
