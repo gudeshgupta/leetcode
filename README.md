@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/gudeshgupta/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/gudeshgupta/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/gudeshgupta/leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/gudeshgupta/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gudeshgupta/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -217,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gudeshgupta/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/gudeshgupta/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/gudeshgupta/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
