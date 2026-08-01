@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gudeshgupta/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/gudeshgupta/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/gudeshgupta/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/gudeshgupta/leetcode/tree/master/0046-permutations) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gudeshgupta/leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/gudeshgupta/leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/gudeshgupta/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/gudeshgupta/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gudeshgupta/leetcode/tree/master/0011-container-with-most-water) |
 | [0502-ipo](https://github.com/gudeshgupta/leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gudeshgupta/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
