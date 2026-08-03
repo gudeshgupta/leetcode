@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/gudeshgupta/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gudeshgupta/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/gudeshgupta/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/gudeshgupta/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gudeshgupta/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gudeshgupta/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gudeshgupta/leetcode/tree/master/0986-interval-list-intersections) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/gudeshgupta/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gudeshgupta/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/gudeshgupta/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gudeshgupta/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gudeshgupta/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/gudeshgupta/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gudeshgupta/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/gudeshgupta/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/gudeshgupta/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gudeshgupta/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/gudeshgupta/leetcode/tree/master/2235-add-two-integers) |
@@ -243,4 +246,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gudeshgupta/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/gudeshgupta/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/gudeshgupta/leetcode/tree/master/0046-permutations) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gudeshgupta/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gudeshgupta/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gudeshgupta/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
