@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gudeshgupta/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/gudeshgupta/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gudeshgupta/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/gudeshgupta/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/gudeshgupta/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gudeshgupta/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gudeshgupta/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gudeshgupta/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/gudeshgupta/leetcode/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/gudeshgupta/leetcode/tree/master/0412-fizz-buzz) |
 | [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gudeshgupta/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gudeshgupta/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/gudeshgupta/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/gudeshgupta/leetcode/tree/master/0682-baseball-game) |
 ## Memoization
 |  |
