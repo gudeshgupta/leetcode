@@ -21,14 +21,14 @@ class Solution {
 
     }
         void fun(TreeNode root,List<Integer> ans){
-        // =new ArrayList<>();
+        
         if(root==null)
         return ;
         fun(root.left,ans);
         ans.add(root.val);
         fun(root.right,ans);
 
-        // return ans;
+        
 
     }
 }
