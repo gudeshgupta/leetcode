@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/gudeshgupta/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gudeshgupta/leetcode/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/gudeshgupta/leetcode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/gudeshgupta/leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gudeshgupta/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gudeshgupta/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/gudeshgupta/leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
+| [1051-height-checker](https://github.com/gudeshgupta/leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gudeshgupta/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gudeshgupta/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
@@ -303,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/gudeshgupta/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gudeshgupta/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gudeshgupta/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gudeshgupta/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gudeshgupta/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
