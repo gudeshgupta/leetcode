@@ -20,7 +20,7 @@ class Solution {
         return ans;
 
         fun(root,ans,"");
-        //fun(root.right,ans);
+        
         return ans;
 
     }
@@ -35,7 +35,7 @@ class Solution {
             return;
         }
         path+="->";
-        // ans.add(root.val);
+        
         fun(root.left,ans,path);
         fun(root.right,ans,path);
     }
