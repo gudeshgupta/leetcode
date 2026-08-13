@@ -11,24 +11,30 @@
 class Solution {
      TreeNode ans=null;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-     fun(root,p,q);
-        return ans;
+    if(p.val<q.val)
+    fun(root,p,q);
+    else
+    fun(root,q,p);
+    return ans;
     }
-    int fun(TreeNode root, TreeNode p, TreeNode q){
+     void fun(TreeNode root, TreeNode p, TreeNode q){
         if(root==null)
-        return 0;
+        return ;
 
-        int left=fun(root.left,p,q);
-        int right=fun(root.right,p,q);
-
-        int self=0;
-        if(root==p || root==q)
-        self=1;
-
-        int total=left+right+self;
-        if(total==2 && ans==null)
+       if(root==p || root==q){
         ans=root;
+        return;
+       }
 
-        return total;
+       if(root.val>q.val)
+       fun(root.left,p,q);
+       else if(root.val<p.val)
+       fun(root.right,p,q);
+       else{
+        ans=root;
+        return;
+       }
+
+
     }
 }
