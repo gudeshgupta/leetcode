@@ -33,7 +33,7 @@ class Solution {
                 curr.next=left;
                 curr=curr.next;
                 left=left.next;
-            }else if(right.val<left.val){
+            }else {
                 curr.next=right;
                 curr=curr.next;
                 right=right.next;
