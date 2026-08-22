@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/gudeshgupta/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/gudeshgupta/leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gudeshgupta/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/gudeshgupta/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gudeshgupta/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/gudeshgupta/leetcode/tree/master/1528-shuffle-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/gudeshgupta/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/gudeshgupta/leetcode/tree/master/0682-baseball-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/gudeshgupta/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Memoization
 |  |
 | ------- |
