@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/gudeshgupta/leetcode/tree/master/1528-shuffle-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gudeshgupta/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gudeshgupta/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/gudeshgupta/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3731-find-missing-elements](https://github.com/gudeshgupta/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
