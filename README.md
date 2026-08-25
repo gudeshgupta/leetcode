@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/gudeshgupta/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/gudeshgupta/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gudeshgupta/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/gudeshgupta/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/gudeshgupta/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gudeshgupta/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gudeshgupta/leetcode/tree/master/0217-contains-duplicate) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gudeshgupta/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/gudeshgupta/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/gudeshgupta/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/gudeshgupta/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/gudeshgupta/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gudeshgupta/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/gudeshgupta/leetcode/tree/master/0412-fizz-buzz) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gudeshgupta/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/gudeshgupta/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/gudeshgupta/leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/gudeshgupta/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/gudeshgupta/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/gudeshgupta/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gudeshgupta/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
