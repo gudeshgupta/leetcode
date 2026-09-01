@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gudeshgupta/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/gudeshgupta/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/gudeshgupta/leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/gudeshgupta/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/gudeshgupta/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gudeshgupta/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/gudeshgupta/leetcode/tree/master/0056-merge-intervals) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gudeshgupta/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/gudeshgupta/leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gudeshgupta/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gudeshgupta/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/gudeshgupta/leetcode/tree/master/0142-linked-list-cycle-ii) |
