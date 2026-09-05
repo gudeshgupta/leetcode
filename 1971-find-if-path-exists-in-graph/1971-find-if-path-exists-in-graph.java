@@ -12,20 +12,31 @@ class Solution {
             adj.get(d).add(s);
 
         }
-        return dfs(adj,vis,source,destination);
-    }
-    boolean dfs(ArrayList<ArrayList<Integer>> adj,boolean[] vis,int node,int destination){
-        if(node==destination)
-        return true;
+        Queue<Integer> q = new LinkedList<>();
 
-        vis[node]=true;
-        for(int j=0;j<adj.get(node).size();j++){
-            int neigh=adj.get(node).get(j);
-            if(!vis[neigh]){
-                if(dfs(adj,vis,neigh,destination))
+        q.add(source);
+        vis[source] = true;
+
+        while(!q.isEmpty()) {
+
+            int node = q.poll();
+
+            if(node == destination)
                 return true;
+
+            for(int j = 0; j < adj.get(node).size(); j++) {
+
+                int neigh = adj.get(node).get(j);
+
+                if(!vis[neigh]) {
+
+                    vis[neigh] = true;
+                    q.add(neigh);
+                }
             }
         }
+
         return false;
+ 
     }
 }
