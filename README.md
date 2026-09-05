@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gudeshgupta/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gudeshgupta/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gudeshgupta/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/gudeshgupta/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gudeshgupta/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gudeshgupta/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gudeshgupta/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/gudeshgupta/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Counting Sort
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/gudeshgupta/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/gudeshgupta/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gudeshgupta/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/gudeshgupta/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/gudeshgupta/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/gudeshgupta/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gudeshgupta/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/gudeshgupta/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Coloring
 |  |
 | ------- |
