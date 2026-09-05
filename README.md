@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/gudeshgupta/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gudeshgupta/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gudeshgupta/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gudeshgupta/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/gudeshgupta/leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gudeshgupta/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gudeshgupta/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gudeshgupta/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting Sort
 |  |
 | ------- |
@@ -526,12 +528,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/gudeshgupta/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gudeshgupta/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/gudeshgupta/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gudeshgupta/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/gudeshgupta/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gudeshgupta/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gudeshgupta/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gudeshgupta/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
 | ------- |
