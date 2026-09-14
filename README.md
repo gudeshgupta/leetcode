@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gudeshgupta/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/gudeshgupta/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/gudeshgupta/leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/gudeshgupta/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/gudeshgupta/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gudeshgupta/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gudeshgupta/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -620,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/gudeshgupta/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gudeshgupta/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
