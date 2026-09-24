@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gudeshgupta/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gudeshgupta/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gudeshgupta/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/gudeshgupta/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/gudeshgupta/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gudeshgupta/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gudeshgupta/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/gudeshgupta/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gudeshgupta/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/gudeshgupta/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/gudeshgupta/leetcode/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gudeshgupta/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/gudeshgupta/leetcode/tree/master/0877-stone-game) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gudeshgupta/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gudeshgupta/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gudeshgupta/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/gudeshgupta/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/gudeshgupta/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/gudeshgupta/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -625,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gudeshgupta/leetcode/tree/master/0836-rectangle-overlap) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/gudeshgupta/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
