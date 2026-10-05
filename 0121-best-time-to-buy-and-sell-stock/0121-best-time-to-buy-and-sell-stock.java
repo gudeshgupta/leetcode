@@ -1,15 +1,32 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int min=Integer.MAX_VALUE;
-        int max=Integer.MIN_VALUE;
-        int n=prices.length;
-        int profit=0;
-        for(int i=0;i<n;i++){
-             min=Math.min(min,prices[i]);
-             int maxpro=prices[i]-min;
-             profit=Math.max(profit,maxpro);
+       int n=prices.length;
+       int k=2;
+       int[][] dp=new int[n][k+1];
+       for(int[] row:dp){
+        Arrays.fill(row,-1);
+       }
+       return fun(prices,0,n,k,dp);
+    }
+    int fun(int[] a,int i,int n,int k,int[][] dp){
+        if(i==n)
+        return 0;
 
+        if(k==0)
+        return 0;
+
+        if (dp[i][k] != -1)
+            return dp[i][k];
+
+        if(k==2){
+            int c1=fun(a,i+1,n,k-1,dp)-a[i];
+            int c2=fun(a,i+1,n,k,dp);
+            dp[i][k]= Math.max(c1,c2);
+        }else{
+            int c1=fun(a,i+1,n,k-1,dp)+a[i];
+            int c2=fun(a,i+1,n,k,dp);
+            dp[i][k]= Math.max(c1,c2);
         }
-            return profit;
+        return dp[i][k];
     }
 }
