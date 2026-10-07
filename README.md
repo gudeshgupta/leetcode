@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gudeshgupta/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/gudeshgupta/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/gudeshgupta/leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/gudeshgupta/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/gudeshgupta/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/gudeshgupta/leetcode/tree/master/0525-contiguous-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gudeshgupta/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gudeshgupta/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/gudeshgupta/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/gudeshgupta/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/gudeshgupta/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gudeshgupta/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gudeshgupta/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gudeshgupta/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gudeshgupta/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/gudeshgupta/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/gudeshgupta/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gudeshgupta/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gudeshgupta/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/gudeshgupta/leetcode/tree/master/0739-daily-temperatures) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/gudeshgupta/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gudeshgupta/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gudeshgupta/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gudeshgupta/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
