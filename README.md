@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/gudeshgupta/leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/gudeshgupta/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/gudeshgupta/leetcode/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/gudeshgupta/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gudeshgupta/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gudeshgupta/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gudeshgupta/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gudeshgupta/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gudeshgupta/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/gudeshgupta/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gudeshgupta/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gudeshgupta/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
