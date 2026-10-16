@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gudeshgupta/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gudeshgupta/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/gudeshgupta/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/gudeshgupta/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gudeshgupta/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gudeshgupta/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gudeshgupta/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/gudeshgupta/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/gudeshgupta/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/gudeshgupta/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gudeshgupta/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gudeshgupta/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gudeshgupta/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gudeshgupta/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 | [1512-number-of-good-pairs](https://github.com/gudeshgupta/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/gudeshgupta/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gudeshgupta/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
