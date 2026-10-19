@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/gudeshgupta/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gudeshgupta/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/gudeshgupta/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/gudeshgupta/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/gudeshgupta/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/gudeshgupta/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gudeshgupta/leetcode/tree/master/0739-daily-temperatures) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gudeshgupta/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/gudeshgupta/leetcode/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/gudeshgupta/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/gudeshgupta/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0905-sort-array-by-parity](https://github.com/gudeshgupta/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/gudeshgupta/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/gudeshgupta/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/gudeshgupta/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/gudeshgupta/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0826-most-profit-assigning-work](https://github.com/gudeshgupta/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/gudeshgupta/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gudeshgupta/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/gudeshgupta/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gudeshgupta/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/gudeshgupta/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/gudeshgupta/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0876-middle-of-the-linked-list](https://github.com/gudeshgupta/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/gudeshgupta/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gudeshgupta/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gudeshgupta/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/gudeshgupta/leetcode/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/gudeshgupta/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/gudeshgupta/leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/gudeshgupta/leetcode/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/gudeshgupta/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -643,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gudeshgupta/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/gudeshgupta/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/gudeshgupta/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/gudeshgupta/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gudeshgupta/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gudeshgupta/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bidirectional Search
